@@ -1,2 +1,0 @@
-# MakswellOPS
-The MakswellOPS PMC
